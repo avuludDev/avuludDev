@@ -1,83 +1,132 @@
-### GitHub Profile README
+<div align="center">
 
-![Worry-free Web3: Getting started with Web3 Development | by Anett | Medium](https://images.openai.com/static-rsc-4/uTO1FEseH8k399sr1Gm1KJAWugfy2eJ0VEE1ZX36Gpo1IZsSUyoptCfnP5GJ5oPyKycTErV8raq7ps1K1D6HFgPc0enUPra9bWsU1_nYCY4JgNb-KcKowIGOrGqFQYulVLQcGNObsMIAaVxIinlZDqa6zHJPuCUvw8oHPxCU-G-T0PGEQpPsDnduTvmDt_2a?purpose=fullsize)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vladyslav%20Makovskyi&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Web3%20%26%20Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-### Vladyslav Makovskyi
+</div>
 
-Web3 & Full Stack Engineer
+<div align="center">
 
-Building blockchain products, Telegram Mini Apps and automation systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vladyslav-makovskiy-2603b5141)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avuludDev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avulud.dev@gmail.com)
 
-SolidityTONReactNode.jsTypeScriptElectron
+</div>
 
-### About Me
+---
 
-I’m a Web3 & Full Stack Engineer with 4+ years of commercial experience building blockchain products, desktop applications, backend services and automation tools.
+## 👤 About Me
 
-My background combines smart contracts, blockchain integrations, scalable APIs and frontend applications. I’ve worked with Ethereum, BSC, Polygon, Arbitrum, Base, Scroll, Solana and TON ecosystems.
+> *Building practical Web3 products with clean architecture and production-ready code.*
 
-### Core Stack
+I'm a **Web3 & Full Stack Engineer** with **4+ years** of commercial experience building blockchain products, desktop applications, backend services and automation tools.
 
-| Area       | Technologies                       |
-| ---------- | ---------------------------------- |
-| Languages  | TypeScript, Python, Solidity, Rust |
-| Frontend   | React, Material UI, Electron       |
-| Backend    | Node.js, Express, PostgreSQL       |
-| Blockchain | Solidity, Web3.js, TON, EVM chains |
-| DevOps     | Docker, Git, CI/CD                 |
+My background combines smart contracts, blockchain integrations, scalable APIs and frontend applications. I've worked with **Ethereum, BSC, Polygon, Arbitrum, Base, Scroll, Solana** and **TON** ecosystems.
 
-### Blockchain Experience
+---
 
-1. Smart Contracts (Solidity)
+## 🛠 Core Stack
 
-2. Token Launches & NFT Platforms
+<div align="center">
 
-3. Staking & Auction Systems
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-4. Wallet Integrations & Transaction Monitoring
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-5. Telegram Mini Apps
+### Backend & DB
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-6. Automation & Trading Tools
+### Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?style=for-the-badge&logo=telegram&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
-### Featured Projects
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-![Telegram Crypto Wallet Bot by Dmytro Repin on Dribbble](https://images.openai.com/static-rsc-4/03_df9wpn9rKRwDUD7c-ahX2VxLSCF_jht9iAqaMVOz51OqwiCKydw1O70eY4Di-gcsUO9ARnyYYIpMtRhGkStDMWxYrQDDqni3Tx6TN1gD4IxAJyJ1R1GtkhXf4qFOdTY8jX3zjeit71icXVnVE_pmFD8jWXSL9mtp0X-NJTQZ9eB8J4Yb_-o2uJCxIBDHj?purpose=fullsize)
+</div>
 
-Telegram Mini App
+---
 
-Crypto-focused Telegram application with blockchain integrations and transaction handling.
+## ⛓ Blockchain Experience
 
-![Ant Design Web3 - A React components collection for Web3!](https://images.openai.com/static-rsc-4/xzNn1J5uJdECw2HyQIOitMs_empf8A3BztEZCRi0NaorFArPsUnPG4Oj5nOsoyuNelKd8W5qGvCXd7GfjjKQjocAaana9VMQM1pzFrr5C1AFGBd7fHpL-E3JiTfUkOk7UbsbnJiUD2WPYpYpjUjPgC-Wnl0Uwq4jmrFgOK62G20hZn6nzjYrcFOUopct_IT3?purpose=fullsize)
+| # | Domain | Details |
+|---|--------|---------|
+| 🔷 | **Smart Contracts (Solidity)** | EVM-compatible contracts, gas optimization, security patterns |
+| 🪙 | **Token Launches & NFT Platforms** | ERC-20, ERC-721, ERC-1155, launchpad mechanics |
+| 📦 | **Staking & Auction Systems** | On-chain reward distribution, bidding logic |
+| 🔗 | **Wallet Integrations & Monitoring** | MetaMask, WalletConnect, transaction tracking |
+| 📱 | **Telegram Mini Apps** | TON Connect, in-app payments, bot integrations |
+| 🤖 | **Automation & Trading Tools** | Sniper bots, arbitrage scripts, on-chain analytics |
 
-Smart Contract Suite
+---
 
-Solidity contracts for auctions, staking and token-related functionality across EVM chains.
+## 🚀 Featured Projects
 
-![Let’s Create a Secure HD Bitcoin Wallet in Electron + React.js | by Michael Michailidis | Coinmonks | Medium](https://images.openai.com/static-rsc-4/tOAKKpH9KBIJMSTqS00R46UduSGf9fcUZBHY5BqiSPH9nzdZtGvk8T3-biTJzgt2MFaqExiuyoJ4rMl7jKKiA_6S5VIMxv4Z0ge5vSFY_9abG-vzdQ9qrZn1f2jqGPdo9-0NriOtpabTfWQxTBuQ4-n5jdIXiBVmXy0o94lmO4TUILTxPjGpPy9ww5Si5fCn?purpose=fullsize)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>📱 Telegram Mini App</h3>
+      <p>Crypto-focused Telegram application with blockchain integrations and transaction handling via TON Connect.</p>
+      <img src="https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=telegram&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>📜 Smart Contract Suite</h3>
+      <p>Solidity contracts for auctions, staking and token-related functionality across EVM chains.</p>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>🖥 Electron Blockchain Tools</h3>
+      <p>Desktop applications for blockchain automation, wallet management and on-chain monitoring.</p>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-Electron Blockchain Tools
+---
 
-Desktop applications for blockchain automation and wallet management.
+## 🔭 Current Interests
 
-### Current Interests
+- 🔵 **TON ecosystem** — Tact & Tolk smart contract development
+- 📲 **Telegram Mini Apps** — next-gen on-chain UX
+- 🤖 **AI-powered automation** — combining LLMs with blockchain tooling
+- 🧰 **SaaS & developer tooling** — products for builders
 
-* TON ecosystem and Tact/Tolk development
+---
 
-* Telegram Mini Apps
+## 📊 GitHub Stats
 
-* AI-powered automation
+<div align="center">
 
-* SaaS & developer tooling
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avuludDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
 
-### Contact
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avuludDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
 
-* LinkedIn: linkedin.com/in/vladyslav-makovskiy-2603b5141
+![GitHub Streak](https://streak-stats.demolab.com?user=avuludDev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
-* GitHub: github.com/avuludDev
+</div>
 
-* Email: [avulud.dev@gmail.com](mailto:avulud.dev@gmail.com)
+---
 
-"Building practical Web3 products with clean architecture and production-ready code."
+<div align="center">
 
-Що ще можна додати пізніше: бейджі GitHub Stats, live demo для Telegram Mini App, список pinned repositories з короткими описами.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+</div>
