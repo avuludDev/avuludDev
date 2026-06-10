@@ -18,9 +18,9 @@
 
 > *Building practical Web3 products with clean architecture and production-ready code.*
 
-I'm a **Web3 & Full Stack Engineer** with **4+ years** of commercial experience building blockchain products, desktop applications, backend services and automation tools.
+I'm a **Web3 & Full Stack Engineer** with **4+ years** of commercial experience building everything from blockchain products and desktop apps to classic web applications, backend services and automation tools.
 
-My background combines smart contracts, blockchain integrations, scalable APIs and frontend applications. I've worked with **Ethereum, BSC, Polygon, Arbitrum, Base, Scroll, Solana** and **TON** ecosystems.
+Whether it's a smart contract on EVM, a REST API in Node.js, a React SPA, or a Python automation script — I cover the full stack. I've worked with **Ethereum, BSC, Polygon, Arbitrum, Base, Scroll, Solana** and **TON** ecosystems.
 
 ---
 
@@ -34,14 +34,16 @@ My background combines smart contracts, blockchain integrations, scalable APIs a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Frontend
+### Frontend & Web
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Blockchain
@@ -56,6 +58,31 @@ My background combines smart contracts, blockchain integrations, scalable APIs a
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
+
+---
+
+## 💡 What I Build
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h3>🌐 Web Applications</h3>
+      <p>Full-stack SPAs and SSR apps with React / Next.js, REST & GraphQL APIs, PostgreSQL</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>⛓ Blockchain Products</h3>
+      <p>Smart contracts, DeFi mechanics, token launches, NFT platforms across EVM & TON</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🖥 Desktop Tools</h3>
+      <p>Cross-platform Electron apps for automation, wallet management & on-chain monitoring</p>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖 Automation & Bots</h3>
+      <p>Python & Node.js scripts, Telegram bots, trading tools, on-chain data pipelines</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -111,19 +138,6 @@ My background combines smart contracts, blockchain integrations, scalable APIs a
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avuludDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avuludDev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=avuludDev&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
-
-</div>
-
----
 
 <div align="center">
 
