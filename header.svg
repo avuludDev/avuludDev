@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,160 Q225,120 450,150 T900,130 L900,200 L0,200 Z" fill="#1a1830" opacity="0.6"/>
+  <text x="450" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle">Vladyslav Makovskyi</text>
+  <text x="450" y="130" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#a78bfa" text-anchor="middle" letter-spacing="2">Web3 &amp; Full Stack Engineer</text>
+</svg>
